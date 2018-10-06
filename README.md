@@ -12,4 +12,4 @@ Python 3.6
 
 ## Acknowledgments
 
-* Dr. ludovic righetti
+* Dr. Ludovic Righetti
